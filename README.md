@@ -1,3 +1,8 @@
+# deployment a dev version:
+
+https://meta.discourse.org/t/beginners-guide-to-install-discourse-for-development-using-docker/102009
+
+----------------------------------------------------------------------
 <a href="https://www.discourse.org/"><img src=
 "https://user-images.githubusercontent.com/1681963/52239617-e2683480-289c-11e9-922b-5da55472e5b4.png"
  width="300px"></a>
